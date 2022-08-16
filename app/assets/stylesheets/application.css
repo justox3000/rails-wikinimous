@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.overview {
+  align-items: center;
+  text-align: center;
+}
+
+article {
+  padding: 8px;
+}
